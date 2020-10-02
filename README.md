@@ -1,1 +1,1 @@
-CodeReviewをきれいにするためのhttps://github.com/github/linguist#using-gitattributesのテストレポジトリ
+CodeReviewをきれいにするためのhttps://github.com/github/linguist#using-gitattributes のテストレポジトリ
